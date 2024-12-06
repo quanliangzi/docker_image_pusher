@@ -1,1 +1,1 @@
-tomcat_web:v0.1
+ictcube/tomcat_web:latest
