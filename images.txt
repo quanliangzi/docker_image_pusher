@@ -1,1 +1,2 @@
-busybox:latest
+docker.io/kong/httpbin
+fortio/fortio:latest_release
