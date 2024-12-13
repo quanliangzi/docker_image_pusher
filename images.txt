@@ -1,1 +1,1 @@
-docker.io/kennethreitz/httpbin
+curlimages/curl
