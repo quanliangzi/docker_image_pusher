@@ -1,1 +1,3 @@
 istioweather/forecast:v1
+istioweather/frontend:v1
+istioweather/advertisement:v1
