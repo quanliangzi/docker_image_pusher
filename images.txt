@@ -1,1 +1,2 @@
-istioweather/forecast:v2
+istioweather/recommendation:v1
+istioweather/frontend:v2
