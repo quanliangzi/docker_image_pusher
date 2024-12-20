@@ -1,2 +1,1 @@
-istioweather/recommendation:v1
-istioweather/frontend:v2
+quay.io/kiali/kiali:v1.50
