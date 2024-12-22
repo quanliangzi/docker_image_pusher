@@ -1,1 +1,1 @@
-envoyproxy/ratelimit:6f5de117
+redis:alpine
