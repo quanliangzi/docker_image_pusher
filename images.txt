@@ -1,1 +1,1 @@
-quay.io/kiali/kiali:v1.50
+envoyproxy/ratelimit:6f5de117
