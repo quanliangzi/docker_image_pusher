@@ -1,1 +1,1 @@
-redis:alpine
+docker.io/istio/examples-bookinfo-mysqldb:1.16.2
