@@ -1,2 +1,1 @@
-aeraki/thrift-sample-server:latest
-aeraki/thrift-sample-client:latest
+abhinavpanicker/csrf-demo:latest
