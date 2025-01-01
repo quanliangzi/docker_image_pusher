@@ -1,1 +1,1 @@
-abhinavpanicker/csrf-demo:latest
+docker.io/istio/jwt-server:0.5
